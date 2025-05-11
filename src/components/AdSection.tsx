@@ -34,7 +34,7 @@ const AdSection = () => {
                     <p><strong>{ad?.footer}</strong></p>
                     <p>
                         {ad?.hashtags.map(tag => (
-                            <span key={uuidv4()}>#{tag}</span>
+                            <span key={uuidv4()}>#{tag} </span>
                         ))}
                     </p>
                     <Link to="/signup" className="w-100 d-block d-md-flex justify-content-md-left">          

@@ -29,7 +29,7 @@ const KeyFeaturesSection = () => {
             <Row className="pt-5 pb-3 flex justify-content-">
                 <h2 className="mb-4 text-center text-primary fw-bold">Key Features</h2>
                 {features?.map(item => (
-                    <Feature key={item.id} name={item.name} description={item.description} imageSrc={item.imageSrc} imageAlt={item.imageAlt} />
+                    <Feature key={item.id} id={item.id} name={item.name} description={item.description} imageSrc={item.imageSrc} imageAlt={item.imageAlt} />
                 ))}
             </Row>
         </Container>

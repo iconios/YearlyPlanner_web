@@ -23,6 +23,10 @@ export interface Feature extends KeyFeature {
     hashtags: [string];
 }
 
+export interface KeyFeatureID extends KeyFeature {
+    id: string;
+}
+
 export interface FetchedFeature extends Feature {
     id: string;
 }

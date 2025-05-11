@@ -16,7 +16,7 @@ const LoginPage = () => {
     return (
         <>
             <NavBar />
-            <Container style={{ maxWidth: '768px' }}  className="d-flex flex-column justify-content-center align-items-center min-vh-100 mx-auto pt-sm-5 pb-sm-5 my-5">
+            <Container style={{ maxWidth: '768px', paddingTop: '128px', paddingBottom: '76px' }}  className="d-flex flex-column justify-content-center align-items-center min-vh-100 mx-auto">
                 <h1 className="mb-5"><strong>Yearly Planner</strong></h1>
                 <img src={plannerImage} alt="Planner" width={128} height={128} className="mb-3" />
                 <h2 className="mb-4"><strong>Login</strong></h2>
