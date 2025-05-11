@@ -31,7 +31,7 @@ const FeaturesPage = () => {
             <NavBar />
             <Container fluid className="bg-primary d-flex flex-column justify-content-center align-items-center text-white" style={{ minHeight: "50vh", paddingTop: '76px', paddingBottom: '76px' }}>
                 <h1 className="text-center px-2"><strong>The Features That Make Our Yearly Planner Unique</strong></h1>
-                <p className="mb-4 px-2">A complete planning system for goals, habits & schedules with smart reminders, sync, and progress tracking.</p>
+                <p className="mb-4 px-2 text-center">A complete planning system for goals, habits & schedules with smart reminders, sync, and progress tracking.</p>
                 <Link to='/signup'><Button type="button" className="bg-secondary rounded-2">Get Started</Button></Link>
             </Container>
             <Container fluid className="bg-light text-dark" style={{ minHeight: "30vh" }}>

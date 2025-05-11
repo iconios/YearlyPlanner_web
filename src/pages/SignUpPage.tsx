@@ -13,7 +13,7 @@ const SignUpPage = () => {
     return (
         <>
             <NavBar />
-            <Container className="d-flex flex-column justify-content-center align-items-center mx-auto" style={{ maxWidth: '768px', paddingTop: '128px', paddingBottom: '76px' }}>
+            <Container className="d-flex flex-column justify-content-center align-items-center mx-auto" style={{ maxWidth: '768px', paddingTop: '76px', paddingBottom: '76px' }}>
                 <h1 className="mb-1"><strong>Sign Up</strong></h1>
                 <p className="mb-5">Create an account to plan your year</p>
                 <Form className="border border-2 border-primary justify-content-sm-stretch w-100 pb-5 pt-5 pb-4 px-5 rounded-4" onSubmit={handleFormSubmit}>
