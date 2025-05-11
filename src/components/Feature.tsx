@@ -1,16 +1,9 @@
 import { KeyFeatureID as FeatureType } from "../types/Feature";
 import { Col, Card, CardImg, CardTitle, CardBody, CardText } from 'react-bootstrap';
 import { HashLink } from 'react-router-hash-link';
+import { scrollWithOffset } from "../utils/scrollWithOffset";
 
-const Feature = ({id, name, description, imageSrc, imageAlt} : FeatureType) => {
-
-    // utils/scrollWithOffset.ts
-    const scrollWithOffset = (el: HTMLElement): void => {
-        const yCoordinate = el.getBoundingClientRect().top + window.pageYOffset;
-        const yOffset = -60; // Adjust based on your fixed navbar height
-        window.scrollTo({ top: yCoordinate + yOffset, behavior: 'smooth' });
-    };
-  
+const Feature = ({id, name, description, imageSrc, imageAlt} : FeatureType) => {  
 
     const descriptionSubstring = description.substring(0, 100);
     return (        

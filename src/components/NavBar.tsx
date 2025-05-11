@@ -1,6 +1,8 @@
 import logo from '../assets/Nerdy_Logo.png'
 import { Link } from 'react-router';
 import { Button, Nav, Navbar, Container, Row } from 'react-bootstrap';
+import { HashLink } from 'react-router-hash-link';
+import { scrollWithOffset } from '../utils/scrollWithOffset';
 
 
 const NavBar = () => {
@@ -10,9 +12,9 @@ const NavBar = () => {
             <Row>
                 <Navbar collapseOnSelect expand="sm" className="bg-primary h-32 p-0 pt-2">
                     <Navbar.Brand className='ms-2 my-2 ps-4'>
-                        <Link to='/' className='text-decoration-none'>
+                        <HashLink to='/#top' className='text-decoration-none' scroll={scrollWithOffset}>
                             <img src={logo} alt='Company Logo' height={32} width={56}/>
-                        </Link>
+                        </HashLink>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" className='d-sm-none bg-white me-3' />
                     <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
