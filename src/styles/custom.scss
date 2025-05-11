@@ -1,0 +1,8 @@
+// Override Bootstrap variables here
+$primary: #2C3E50;
+$secondary: #2ECC71;
+$tertiary: #F39C12;
+$enable-rounded: false;
+
+// Then import Bootstrap
+@import 'bootstrap/scss/bootstrap';

@@ -1,0 +1,248 @@
+{
+    "features": [
+      { "id": "1", 
+        "name": "Goal Management",
+        "heading": "Master Your Goals with Smarter Planning!", 
+        "description": "Never lose sight of what matters – the Yearly Planner's Goal Management feature helps you define, track, and achieve your biggest ambitions with ease.",
+        "pointsHeading": "Why You’ll Love It:",
+        "points": [
+          {
+            "title": "Break Down Big Dreams",
+            "description": "Split yearly goals into monthly milestones and daily tasks"
+          },
+          {
+            "title": "Visual Progress Tracking",
+            "description": "See your completion rate with intuitive charts"
+          },
+          {
+            "title": "Smart Reminders",
+            "description": "Never miss deadlines with automated notifications"
+          },
+          {
+            "title": "Flexible Categories",
+            "description": "Organize by Career, Health, Personal, and more"
+          },
+          {
+            "title": "Motivational Boost",
+            "description": "Celebrate small wins on your way to big success"
+          }
+        ],
+        "testimonial": {
+          "name": "Sarah K.",
+          "testimony": "Finally a planner that actually helps me stick to my goals!"
+        },
+        "tagline": "Your Goals. Your Year. Your Success.",
+        "hashtags": [
+          "GoalGetter",
+          "ProductivityHack",
+          "PlanLikeAPro"
+        ],
+        "imageSrc": "https://img.freepik.com/free-vector/positive-tiny-people-sitting-walking-near-huge-target-with-arrow-isolated-flat-vector-illustration-cartoon-business-team-achieving-goal-aim-marketing-strategy-achievement-concept_74855-10139.jpg?t=st=1746888780~exp=1746892380~hmac=06a03140dabf7982b56df5c689923b88a3f02fb247131a921d562027ef92bfb7&w=1060",
+        "imageAlt": "goal management"
+    },
+    { "id": "2", 
+        "name": "Habit Tracker",
+        "heading": "Build Life-Changing Habits with Ease!",
+        "description": "Tired of failed New Year's resolutions? The Yearly Planner's Habit Tracker turns your ambitions into automatic routines – with science-backed motivation!",
+        "pointsHeading": "Why This Works:",
+        "points": [
+          {
+            "title": "Streak System",
+            "description": "Watch your '5-day streak' grow into lifelong habits"
+          },
+          {
+            "title": "Smart Reminders",
+            "description": "Gentle nudges at your most productive times"
+          },
+          {
+            "title": "Visual Progress",
+            "description": "Color-coded calendars and growth charts"
+          },
+          {
+            "title": "Custom Targets",
+            "description": "Track water intake, workouts, reading, or anything!"
+          },
+          {
+            "title": "Synced Across Devices",
+            "description": "Log habits anywhere, anytime"
+          }
+        ],
+        "testimonial": {
+          "name": "Mark T.",
+          "testimony": "The streak counter keeps me accountable – I haven't missed a workout in 3 months!"
+        },
+        "tagline": "21 Days to a New You Starts Now",
+        "hashtags": [
+          "HabitTracker",
+          "ConsistencyIsKey",
+          "BetterEveryDay"
+        ],
+        "imageSrc": "https://img.freepik.com/free-vector/habit-tracker-template_52683-50761.jpg?t=st=1746888841~exp=1746892441~hmac=58020da8ad181bb321c009785591e7187d6aebaa07dcfe09b2b25cf460646f15&w=1380",
+        "imageAlt": "habit tracker"
+    },
+    { "id": "3", 
+        "name": "Progress Analytics", 
+        "heading": "Unlock the Power of Your Progress!",
+        "pointsHeading": "See Your Growth in Real-Time",
+        "description": "Stop guessing if you're improving – the Yearly Planner's Progress Analytics turns your effort into undeniable results with beautiful, data-driven insights.",
+        "points": [
+          {
+            "title": "Goal Thermometers",
+            "description": "Watch your completion % rise daily"
+          },
+          {
+            "title": "Habit Streak Maps",
+            "description": "visualize your consistency calendar"
+          },
+          {
+            "title": "Productivity Trends",
+            "description": "Discover your most effective days/hours"
+          },
+          {
+            "title": "Milestone Celebrations",
+            "description": "Automatic achievement badges"
+          },
+          {
+            "title": "Exportable Reports",
+            "description": "Share wins with coaches or accountability partners"
+          }
+        ],
+        "testimonial": {
+          "name": "Alex R.",
+          "testimony": "Seeing my progress graphed out motivated me more than anything else!"
+        },
+        "tagline": "Data Doesn't Lie – Are You On Track?",
+        "hashtags": [
+          "ProgressTracking",
+          "DataDrivenSuccess",
+          "GoalCrusher"
+        ],
+        "imageSrc": "https://img.freepik.com/free-vector/growth-analytics-concept-illustration_114360-2287.jpg?t=st=1746889032~exp=1746892632~hmac=2687e0547662267029046c078d8c9d5fa138431fc7875ed363ee640faa6c08a1&w=900",
+        "imageAlt": "progress analytics"
+    },
+    {
+      "id": "4",
+      "name": "Cross-Device Sync",
+      "heading": "Your Planner, Always in Sync – Wherever You Go!",
+      "description": "Tired of scribbling notes on your phone only to forget them on your laptop? The Yearly Planner's Cross-Device Sync keeps your goals, habits, and schedule perfectly aligned across all your devices – automatically!",
+      "pointsHeading": "Never Miss a Beat",
+      "points": [
+        {
+          "title": "Real-Time Updates",
+          "description": "Edit on your phone, see changes instantly on your laptop"
+        },
+        {
+          "title": "Offline Mode",
+          "description": "Update tasks anywhere, syncs when you reconnect"
+        },
+        {
+          "title": "One Account, All Devices",
+          "description": "iOS, Android, Web, and Desktop in perfect harmony"
+        },
+        {
+          "title": "Conflict Resolution",
+          "description": "Smart merging when you edit the same task from two devices"
+        },
+        {
+          "title": "Secure Cloud Backup",
+          "description": "Never lose your progress"
+        }
+      ],
+      "testimonial": {
+        "name": "Maya T., Digital Nomad",
+        "testimony": "I start planning on my computer, update on my phone during commute, and check my tablet at night – everything just works!"
+      },
+      "tagline": "Your Productivity Ecosystem – Connected",
+      "hashtags": [
+        "WorkFromAnywhere",
+        "SeamlessSync",
+        "ProductivityPerfected"
+      ],
+      "imageAlt": "cross-device sync",
+      "imageSrc": "https://img.freepik.com/free-vector/user-with-laptop-smartphone-synchronizing-cross-device-syncing-cross-device-synchronization-operation-concept-pinkish-coral-bluevector-isolated-illustration_335657-2523.jpg?t=st=1746888707~exp=1746892307~hmac=dadbf7de4c2545cf7e883d43f32a35de3cd9245f3494a3499814790c0ac11b57&w=1380"
+    },
+    {
+      "id": "5",
+      "name": "Reminders & Notifications",
+      "heading": "Never Miss What Matters – Smarter Reminders That Actually Work!",
+      "description": "Tired of forgetting important tasks? The Yearly Planner's Intelligent Reminders do more than just ping you – they help you build unstoppable momentum toward your goals.",
+      "pointsHeading": "Your Personal Memory Boost",
+      "points": [
+        {
+          "title": "Smart Timing",
+          "description": "Alerts at your most productive hours"
+        },
+        {
+          "title": "Location-Based",
+          "description": "'Buy milk' pops up at the grocery store"
+        },
+        {
+          "title": "Multi-Channel Alerts",
+          "description": "Push, email, and SMS backups"
+        },
+        {
+          "title": "Snooze Smartly",
+          "description": "'Remind me again in 1 hour' with progress tracking"
+        },
+        {
+          "title": "Priority Tagging",
+          "description": "Red alerts for can't-miss deadlines"
+        }
+      ],
+      "testimonial": {
+        "name": "Dr. Naomi P.",
+        "testimony": "These reminders finally got me to floss daily – 180-day streak and counting!"
+      },
+      "tagline": "Your Future Self Will Thank You",
+      "hashtags": [
+        "NeverForget",
+        "ProductivityHack",
+        "OnTrack"
+      ],
+      "imageAlt": "reminders & notifications",
+      "imageSrc": "https://img.freepik.com/free-vector/realistic-notification-bell-3d-icon-isolated-white-background-new-notification-concept-social-media-element_145391-1218.jpg?t=st=1746889915~exp=1746893515~hmac=1fe94d3842d49d300ab2f04527e9bcbda548c08fae994a2265981483e5cc7ca7&w=900"
+    }
+    
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "ad": {
+        "id": "1",
+        "title": "Achieve More, Stress Less – Meet Your New Yearly Planner!",
+        "description":"Tired of juggling goals, habits, and deadlines? Elevate your productivity with the Ultimate Yearly Planner – the all-in-one digital planner designed to help you plan, track, and conquer your year with ease.",
+        "subheading": "Why You’ll Love It:",
+        "features": [
+          {
+            "title": "Set & Crush Goals",
+            "description": "Break down big dreams into yearly, monthly, and daily steps."
+          },
+          {
+            "title": "Build Winning Habits",
+            "description": "Track streaks, log progress, and stay motivated."
+          },
+          {
+            "title": "Sync Anywhere",
+            "description": "Seamless cloud sync across all your devices."
+          },
+          {
+            "title": "Smart Insights",
+            "description": "Visual reports show your progress and growth."
+          },
+          {
+            "title": "Simple & Beautiful",
+            "description": "Clean design, customizable themes, and intuitive controls."
+          }
+        ],
+        "tagline": "Plan Smarter. Live Better.",
+        "footer": "Get Started Today – Your Best Year Awaits!",
+        "hashtags": [
+          "YearlyPlanner",
+          "Productivity",
+          "GoalGetter",
+          "PlanLikeAPro"
+        ],
+        "cta": "Sign Up Now"
+    }
+  }

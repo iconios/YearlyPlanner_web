@@ -1,0 +1,14 @@
+.custom-width {
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) { /* md breakpoint */
+    .custom-width {
+      width: 50%;
+    }
+
+    .align-center {
+        align-self: center;
+    }
+  }
+  
