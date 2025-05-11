@@ -1,3 +1,44 @@
+Problem Statement: Yearly Planner Application
+
+Managing personal and professional commitments efficiently is a common challenge in today’s fast-paced world. Many individuals struggle to organize their schedules, set long-term goals, track progress, and maintain a balance between work, personal life, and self-improvement. Traditional planners and digital calendars often lack integrated features for holistic yearly planning, such as goal-setting, habit tracking, and progress visualization, leading to fragmented time management and missed opportunities for growth.
+
+There is a need for a comprehensive yearly planner application that enables users to:
+
+Plan and visualize their entire year in one place.
+
+Set and track personal, professional, and health-related goals.
+
+Manage recurring events, deadlines, and important milestones.
+
+Monitor habits and routines to build consistency.
+
+Receive reminders and insights to stay on track.
+
+Sync across devices for seamless access.
+
+The absence of such a tool results in disorganized schedules, unmet goals, and reduced productivity. A user-friendly yearly planner application would empower individuals to take control of their time, improve accountability, and achieve long-term success.
+
+Objective:
+Develop an intuitive and feature-rich yearly planner application that helps users efficiently organize, track, and optimize their year for enhanced productivity and personal growth.
+
+Key Requirements:
+
+Yearly, monthly, weekly, and daily planning views.
+
+Goal-setting and progress-tracking features.
+
+Habit-tracking and reminder systems.
+
+Cross-platform synchronization (mobile, web, desktop).
+
+Customizable themes and export options.
+
+Data insights and performance analytics.
+
+By addressing these needs, the application will provide a structured and motivating way for users to manage their time effectively throughout the year.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
