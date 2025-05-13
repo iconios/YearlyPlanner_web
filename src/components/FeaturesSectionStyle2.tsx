@@ -4,7 +4,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 const FeaturesSectionStyle2 = ({ feature }: {feature: FetchedFeature}) => {
     return (
-        <Container id={feature?.id}>
+        <Container id={feature?.id} style={{ minHeight: "30vh" }}>
             <Row className="bg-white border border-1 border-gray rounded-3 my-3 py-5">
                 <h2 className="text-center"><strong>{feature?.name}</strong></h2>
                 <p className="text-center">{feature?.heading}</p>
