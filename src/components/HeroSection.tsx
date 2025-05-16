@@ -7,7 +7,7 @@ import Container from 'react-bootstrap/Container';
 const HeroSection = () => {
     return (
         <Container>
-            <Row className='bg-primary pb-5 px-3 px-sm-4'  style={{ paddingTop: '76px' }}>
+            <Row className='bg-primary pb-5 px-3 px-sm-4'  style={{ paddingTop: '56px' }}>
                 <Col sm={6}  className='mt-3 my-sm-auto justify-content-sm-left' style={{ order: 2 }}>
                     <h1 className='text-white'>Organize Your Year Effectively</h1>
                     <p className='text-white'>A yearly planner is a tool designed to help individuals or organizations plan, organize, and track their activities, goals, and schedules over a 12-month period</p>

@@ -14,7 +14,7 @@ const NavBar = () => {
                         <strong>NERDY</strong>
                     </HashLink>
                 </Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" className='d-sm-none bg-white me-3' />
+                <Navbar.Toggle aria-controls="basic-navbar-nav" className='d-sm-none bg-white me-3 p-1' />
                 <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                     <Nav className="align-items-stretch text-center">
                         <Nav.Item className='me-3 me-sm-0 mb-1 mb-sm-0'>
