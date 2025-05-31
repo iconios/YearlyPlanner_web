@@ -3,23 +3,22 @@ import illustrationImage from '../assets/Checklist.png';
 import SideBar from "../components/SideBar";
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
+import { Link } from "react-router";
 
 const Planner =() => {
-    
-
 
     return (
         <>
-            <NavBar />
-            <Container fluid className="" style={{ height: '82vh' }}>
-                <Row className="flex-grow-1 g-sm-0">
-                    <SideBar />
+            <NavBar />            
+            <SideBar />
+            <Container fluid className="d-flex flex-column justify-content-center align-items-center mx-auto" >
+                <Row className="">
                     <Col sm={2} className="d-none d-sm-block">
                         
                     </Col>
-                    <Col sm={10} className="d-flex flex-column justify-content-center align-items-center" style={{ minHeight: '62vh' }}>
-                        <img src={illustrationImage} alt="illustration" className="w-75 h-auto" />
-                        <Button className="w-75">Start Planning!</Button>
+                    <Col sm={10} className="d-flex flex-column justify-content-center align-items-center mx-auto">
+                        <img src={illustrationImage} alt="illustration" className="w-75 h-auto" style={{ maxWidth:'412px' }} />
+                        <Link to='/newgoal' className="mb-sm-5 pb-sm-5"><Button className="">Start Planning!</Button></Link>
                     </Col>
                 </Row>
             </Container>

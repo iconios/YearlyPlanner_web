@@ -20,9 +20,9 @@ const AdSection = () => {
     }, [])
     return (
         <Container>
-            <Row className="py-5 px-1 bg-secondary px-sm-4 text-primary">            
+            <Row className="py-5 px-1 bg-secondary px-sm-4 text-primary" style={{ marginBottom: '80px' }}>            
                 <Col className="d-flex flex-column align-items-left">
-                    <h2 className="">{ad?.title}</h2>
+                    <h2>{ad?.title}</h2>
                     <p className="">{ad?.description}</p>
                     <h3>✨ {ad?.subheading}</h3>
                     <ul style={{ listStyle: 'none', paddingLeft: 0 }}>

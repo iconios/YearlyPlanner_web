@@ -7,7 +7,7 @@ import { scrollWithOffset } from '../utils/scrollWithOffset';
 const NavBar = () => {
 
     return (
-        <Navbar collapseOnSelect expand="sm" className="bg-primary h-32 p-0 pt-2 position-fixed px-3 px-md-4" style={{ zIndex: 2000, top: 0, width: '100%', boxSizing: 'border-box' }}>
+        <Navbar collapseOnSelect expand="sm" className="bg-primary h-32 p-0 pt-2 px-3 px-md-4" style={{ zIndex: 2000, position: 'fixed', top: 0, width: '100%', boxSizing: 'border-box' }}>
             <Container fluid>
                 <Navbar.Brand className='ms-2 my-2 ps-4'>
                     <HashLink to='/#top' className='text-decoration-none text-white' scroll={scrollWithOffset}>
@@ -26,7 +26,7 @@ const NavBar = () => {
                         </Nav.Item>
                         <Nav.Item className='me-3 me-sm-5'>
                             <Link to='/login' className='text-white text-decoration-none'>
-                                <Button type='button' className='w-100 bg-secondary px-sm-5 py-sm-2 ms-sm-2'>
+                                <Button type='button' className='w-100 bg-secondary px-sm-5 py-sm-2 ms-sm-2  mb-3 mb-sm-0'>
                                     Login
                                 </Button>
                             </Link>
